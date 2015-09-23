@@ -1,0 +1,9 @@
+{
+  "title": "Tabris Test",
+  "description": "Simple test in Tabris.js",
+  "category": "Test",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.2.0"
+  }
+}
